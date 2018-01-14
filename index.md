@@ -4,8 +4,8 @@
 </ul>
 
 <h1>German Language Learning for KS3</h1>
-<h2>Section One: What you can learn here.</h2>
-<p>This is the first paragraph. It isn't very interesting at the moment.</p>
+<h2>Vocabulary and Grammar for KS3 German Students</h2>
+<p>Welcome to German for KS3! This website will help Year 9 students to prepare for their GCSEs by helping with grammar and vocabulary, covering the past tense and the Internet and social media topic.</p>
 
 
 
