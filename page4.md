@@ -7,6 +7,9 @@
 
 <h2>Tenses</h2>
 
+<p> On this page, we will cover the past tense, including both the perfect and imperfect forms, and how to form it.</P>
+
+
 
 <p>
   <a style="float:left;" href="index.html">Back to Home</a>
