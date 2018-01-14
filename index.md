@@ -12,7 +12,7 @@
 
 
 
-
+<hr>
 
 <footer>
   <p>Student ID Number: 160360167</p>
