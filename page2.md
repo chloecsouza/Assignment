@@ -13,11 +13,11 @@
   </tr>
   <tr>
     <td>to use</td>
-    <td>benutzen <iframe src="https://archive.org/embed/Benutzen" width="50" height="20" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
+    <td>benutzen <iframe src="https://archive.org/embed/Benutzen" width="18" height="18" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>to chat</td>
-    <td>chatten <iframe src="https://archive.org/embed/Chatten" width="25" height="25" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
+    <td>chatten <iframe src="https://archive.org/embed/Chatten" width="20" height="20" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>computer game</td>
