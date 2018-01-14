@@ -17,71 +17,71 @@
   </tr>
   <tr>
     <td>to chat</td>
-    <td>chatten</td>
+    <td>chatten <iframe src="https://archive.org/embed/Chatten" width="18" height="18" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>computer game</td>
-    <td>das Computerspiel</td>
+    <td>das Computerspiel <iframe src="https://archive.org/embed/DasComputerspiel" width="18" height="18" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>to upload</td>
-    <td>hochladen</td>
+    <td>hochladen <iframe src="https://archive.org/embed/Hochladen" width="18" height="18" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>to download</td>
-    <td>herunterladen</td>
+    <td>herunterladen <iframe src="https://archive.org/embed/Herunterladen" width="18" height="18" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>to communicate</td>
-    <td>kommunizieren</td>
+    <td>kommunizieren <iframe src="https://archive.org/embed/Kommunizieren" width="18" height="18" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>social networks</td>
-    <td>soziale Netzwerke</td>
+    <td>soziale Netzwerke <iframe src="https://archive.org/embed/SozialeNetzwerke" width="18" height="18" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>web page</td>
-    <td>die Internetseite</td>
+    <td>die Internetseite <iframe src="https://archive.org/embed/DieInternetseite" width="18" height="18" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>to load</td>
-    <td>laden</td>
+    <td>laden <iframe src="https://archive.org/embed/Laden_201801" width="18" height="18" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>search engine</td>
-    <td>die Suchmaschine</td>
+    <td>die Suchmaschine <iframe src="https://archive.org/embed/DieSuchmaschine" width="18" height="18" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>to send</td>
-    <td>schicken</td>
+    <td>schicken <iframe src="https://archive.org/embed/Schicken" width="18" height="18" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>attachment</td>
-    <td>der Anhang</td>
+    <td>der Anhang <iframe src="https://archive.org/embed/DerAnhang" width="18" height="18" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>to print</td>
-    <td>drucken</td>
+    <td>drucken <iframe src="https://archive.org/embed/Drucken_201801" width="18" height="18" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>operating system</td>
-    <td>das Betriebssystem</td>
+    <td>das Betriebssystem <iframe src="https://archive.org/embed/DasBetriebssystem" width="18" height="18" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>screensaver</td>
-    <td>der Bildschirmschoner</td>
+    <td>der Bildschirmschoner <iframe src="https://archive.org/embed/DerBildschirmschoner" width="18" height="18" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>database</td>
-    <td>die Datenbank</td>
+    <td>die Datenbank <iframe src="https://archive.org/embed/DieDatenbank" width="180" height="180" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>settings</td>
-    <td>die Einstellungen</td>
+    <td>die Einstellungen <iframe src="https://archive.org/embed/DieEinstellungen" width="180" height="180" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>link</td>
-    <td>der Verweis</td>
+    <td>der Verweis <iframe src="https://archive.org/embed/DerVerweis" width="180" height="180" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
     
 </table>
