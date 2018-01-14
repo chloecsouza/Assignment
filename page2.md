@@ -13,7 +13,7 @@
   </tr>
   <tr>
     <td>to use</td>
-    <td>benutzen <iframe src="https://archive.org/embed/Benutzen" width="25" height="25" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
+    <td>benutzen <iframe src="https://archive.org/embed/Benutzen" width="50" height="20" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>to chat</td>
