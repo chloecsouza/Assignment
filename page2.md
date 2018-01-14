@@ -2,7 +2,8 @@
   <li><a href="index.html">Home</a></li>
   <li>Vocabulary</li>
 </ul>
-<h1>Topic: Internet and Social Media</h1>
+<h1>Vocabulary</h1>
+<h2>Topic: Internet and Social Media</h2>
 
 
 <table>
