@@ -13,43 +13,43 @@
   </tr>
   <tr>
     <td>to use</td>
-    <td>benutzen <iframe src="https://archive.org/embed/Benutzen" width="24" height="22" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
+    <td>benutzen <iframe src="https://archive.org/embed/Benutzen" width="25" height="20" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>to chat</td>
-    <td>chatten <iframe src="https://archive.org/embed/Chatten" width="20" height="20" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
+    <td>chatten <iframe src="https://archive.org/embed/Chatten" width="30" height="21" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>computer game</td>
-    <td>das Computerspiel <iframe src="https://archive.org/embed/DasComputerspiel" width="25" height="25" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
+    <td>das Computerspiel <iframe src="https://archive.org/embed/DasComputerspiel" width="35" height="22" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>to upload</td>
-    <td>hochladen <iframe src="https://archive.org/embed/Hochladen" width="25" height="25" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
+    <td>hochladen <iframe src="https://archive.org/embed/Hochladen" width="40" height="23" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>to download</td>
-    <td>herunterladen <iframe src="https://archive.org/embed/Herunterladen" width="25" height="25" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
+    <td>herunterladen <iframe src="https://archive.org/embed/Herunterladen" width="45" height="24" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>to communicate</td>
-    <td>kommunizieren <iframe src="https://archive.org/embed/Kommunizieren" width="25" height="25" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
+    <td>kommunizieren <iframe src="https://archive.org/embed/Kommunizieren" width="50" height="25" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>social networks</td>
-    <td>soziale Netzwerke <iframe src="https://archive.org/embed/SozialeNetzwerke" width="25" height="25" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
+    <td>soziale Netzwerke <iframe src="https://archive.org/embed/SozialeNetzwerke" width="55" height="26" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>web page</td>
-    <td>die Internetseite <iframe src="https://archive.org/embed/DieInternetseite" width="25" height="25" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
+    <td>die Internetseite <iframe src="https://archive.org/embed/DieInternetseite" width="60" height="27" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>to load</td>
-    <td>laden <iframe src="https://archive.org/embed/Laden_201801" width="25" height="25" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
+    <td>laden <iframe src="https://archive.org/embed/Laden_201801" width="65" height="25" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>search engine</td>
-    <td>die Suchmaschine <iframe src="https://archive.org/embed/DieSuchmaschine" width="25" height="25" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
+    <td>die Suchmaschine <iframe src="https://archive.org/embed/DieSuchmaschine" width="70" height="25" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe></td>
   </tr>
   <tr>
     <td>to send</td>
