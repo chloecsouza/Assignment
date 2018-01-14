@@ -24,10 +24,6 @@
     <td>das Computerspiel</td>
   </tr>
   <tr>
-    <td>cyber bullying</td>
-    <td>das Cybermobbing</td>
-  </tr>
-  <tr>
     <td>to upload</td>
     <td>hochladen</td>
   </tr>
