@@ -5,6 +5,7 @@
 <h1>Vocabulary</h1>
 <h2>Topic: Internet and Social Media</h2>
 
+<p> This page covers German words related to the Internet and social media, a topic which is studied at KS3 level in preparation for GCSE topics. To hear how the words are pronounced, click on the play button in box next to the German word. </p>
 
 <table>
   <tr>
@@ -87,7 +88,7 @@
 </table>
 
 
-
+<p> To test your memory of these words, click on 'Continue to Exercises' below. </p>
 
 
 
