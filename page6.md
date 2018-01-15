@@ -29,7 +29,9 @@
 
 <p>
   <a style="float:left;" href="page2.html">Back to Vocabulary</a>
-  <a style="float:left;" href="page4.html">Back to Grammar</a>
+</p>
+<p>
+   <a style="float:left;" href="page4.html">Back to Grammar</a>
 </p>
 <div style="clear:both;"></div>
 
