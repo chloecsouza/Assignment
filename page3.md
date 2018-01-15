@@ -26,6 +26,7 @@
 
 <p>
   <a style="float:left;" href="page2.html">Back to Vocabulary</a>
+  <a style="float:right;" href="page6.html">Further Exercises</a>
 </p>
 <div style="clear:both;"></div>
    
