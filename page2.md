@@ -100,7 +100,7 @@
 
 
 <p>
-  <a style="float:left;" href="page3.html">Continue to Exercises</a>
+  <a style="float:left;" href="page3.html">Continue to Vocabulary Exercises</a>
 </p>
 <div style="clear:both;"></div>
    
