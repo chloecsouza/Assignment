@@ -30,6 +30,7 @@
 <p>
   <a style="float:left;" href="page2.html">Back to Vocabulary</a>
 </p>
+<div style="clear:both;"></div>
 <p>
    <a style="float:left;" href="page4.html">Back to Grammar</a>
 </p>
