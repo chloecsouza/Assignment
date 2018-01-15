@@ -56,12 +56,12 @@
   </tr>
  </table>
   
- <p>For irregular verbs, such as <em>fahren</em>, the perfect past would look like this:</p>
- <table>
+<p>For irregular verbs, such as <em>fahren</em>, the perfect past would look like this:</p>
+<table>
   <tr>
-    <th>Person</td>
-    <th>Auxiliary</td>
-    <th>Past participle</td>
+    <th>Person</th>
+    <th>Auxiliary</th>
+    <th>Past participle</th>
   </tr>
   <tr>
     <td>ich</td>
@@ -93,13 +93,14 @@
     <td>sind</td>
     <td>gefahren</td>
   </tr>
- </table>
+</table>
  
- <h3>The Imperfect Tense</h3>
- <p>To form the imperfect tense for regular verbs, certain endings are added to the stem of the verb depending on the person; ich = <em>-te</em>, du = <em>-test</em>, er/sie/es = <em>-te</em>, wir = <em>-ten</em>, ihr = <em>-tet</em>, sie/Sie = <em>-ten</em>. For irregular verbs, the endings are mostly the same as the endings for regular verbs, though it does sometimes change, along with the stem of the verb. </p>
+<h3>The Imperfect Tense</h3>
+<p>To form the imperfect tense for regular verbs, certain endings are added to the stem of the verb depending on the person; ich = <em>-te</em>, du = <em>-test</em>, er/sie/es = <em>-te</em>, wir = <em>-ten</em>, ihr = <em>-tet</em>, sie/Sie = <em>-ten</em>. For irregular verbs, the endings are mostly the same as the endings for regular verbs, though it does sometimes change, along with the stem of the verb.</p>
  
- <p>For regular verbs, such as <em>spielen</em>, the imperfect past would look like this:</p>
- <table>
+
+<p>For regular verbs, such as <em>spielen</em>, the imperfect past would look like this:</p>
+<table>
   <tr>
     <th>Person</th>
     <th>Imperfect form</th>
@@ -128,9 +129,9 @@
     <td>sie/Sie</td>
     <td>spielten</td>
   </tr>
-  </table>
+ </table>
   
-  <p>For irregular verbs, such as <em>fahren</em>, the imperfect past would look like this:</p>
+ <p>For irregular verbs, such as <em>fahren</em>, the imperfect past would look like this:</p>
  <table>
   <tr>
     <th>Person</th>
