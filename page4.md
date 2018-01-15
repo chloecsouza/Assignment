@@ -55,7 +55,10 @@
     <td>gespielt</td>
   </tr>
  </table>
-  
+ 
+<p> Example sentence: <em>Ich habe Tennis gespielt.</em></p>
+ 
+ 
 <p>For irregular verbs, such as <em>fahren</em>, the perfect past would look like this:</p>
 <table>
   <tr>
@@ -94,7 +97,10 @@
     <td>gefahren</td>
   </tr>
 </table>
+
+<p> Example sentence: <em>Ich bin nach Hause gefahren.</em></p>
  
+
 <h3>The Imperfect Tense</h3>
 <p>To form the imperfect tense for regular verbs, certain endings are added to the stem of the verb depending on the person; ich = <em>-te</em>, du = <em>-test</em>, er/sie/es = <em>-te</em>, wir = <em>-ten</em>, ihr = <em>-tet</em>, sie/Sie = <em>-ten</em>. For irregular verbs, the endings are mostly the same as the endings for regular verbs, though it does sometimes change, along with the stem of the verb.</p>
  
@@ -131,6 +137,10 @@
   </tr>
  </table>
   
+ <p> Example sentence: <em>Ich spielte Tennis.</em></p>
+ 
+  
+  
  <p>For irregular verbs, such as <em>fahren</em>, the imperfect past would look like this:</p>
  <table>
   <tr>
@@ -162,6 +172,8 @@
     <td>fuhren</td>
   </tr>
 </table>
+
+<p> Example sentence: <em>Ich fuhr nach Hause.</em></p>
 
 
 
